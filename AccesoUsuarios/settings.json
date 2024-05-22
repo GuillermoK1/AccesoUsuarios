@@ -1,6 +1,5 @@
 ﻿{
-  "ConnectionString": "User Id=SYSTEM;Password=oracle;Data Source=localhost:1521/XEPDB1;",
-  "AdminUsername": "Guille",
-  "AdminPassword": "037f9dd1facb87fc260feb9b266c2b749f4b5e08ceed2b3ca656f726fe4811f4",
-  "Contraseña aleatoria": "dLvCRKVwuZ"
+  "ConnectionString":
+  "AdminUsername":
+  "AdminPassword":
 }
